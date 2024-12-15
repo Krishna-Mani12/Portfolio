@@ -1,0 +1,45 @@
+body{
+    background-color:cadetblue;
+    border-width:50cm;
+    border-color:rgb(9, 122, 122);
+}
+p{
+    line-height:0;
+}
+#naam{
+    font-size:400%;
+    padding-top:100;
+    padding-left:200;
+    text-shadow:5cm;
+    color:black;
+}
+#kaam{
+    color:darkblue;
+    font-size:xx-large;
+    padding-left:200;
+    font-style: bold;
+}
+#des{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:larger;
+    
+    padding-left:200;
+}
+a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-large;
+    font-weight:500;
+    padding-left:200;
+    color:firebrick;
+}
+.p{
+    padding-top:100;
+}
+#linked{
+    font-size:larger;
+    font-weight:500;
+    font-style: italic;
+    padding-left:400;
+    color:rgb(16, 73, 73);
+    
+}
